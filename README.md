@@ -1,4 +1,4 @@
-# tommy-ce6-git-1
+# tommy-ce6-git-1 - Add
 
 # “git clone” is used for just downloading exactly what is currently on the remote repository and saving it in your. machine's folder where that project is placed. (Only one time)
 
