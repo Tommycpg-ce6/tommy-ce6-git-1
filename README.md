@@ -11,4 +11,14 @@
 # git commit -m "Create changes on README file"   - Commit the file that you’ve staged in your local repository.
 # git push origin main    - Push the changes in your local repository to GitHub
 
-Hello World
+# git branch create new branch => git branch feature2
+# Change to the new branch => git checkout feature2
+# create new branch and change to the branch => git checkout -b <new-branch-name>
+# create the changes on local file
+# git add .
+# git commit -m “Comment of the changes”
+# git push --set-upstream origin <new-branch-name>
+# git push
+# git checkout -b console-2
+# git branch console-1
+# git branch -a
